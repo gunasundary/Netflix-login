@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 node_modules/
+=======
+# dependencies
+node_modules/
+
+# env files
+.env
+
+# build outputs
+dist/
+build/
+>>>>>>> 9543d27947f14ef901266bf0390c25d6da8904f0
