@@ -34,26 +34,6 @@ The main goal of this project is to practice **frontend UI design**, **form hand
 
 ---
 
-## 📂 Project Structure
-Netflix-login/
-│
-├── Backend/
-│ ├── index.js
-│ ├── package.json
-│ └── package-lock.json
-│
-├── src/
-│ ├── components/
-│ │ └── Login.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-│
-├── public/
-├── .gitignore
-└── README.md
-
----
 
 ## 🚀 Features
 
