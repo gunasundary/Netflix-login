@@ -41,7 +41,7 @@ function Login() {
 
   return (
     <div className="h-screen bg-[#101010] flex items-center justify-center relative">
-      <img src={logo} alt="Netflix" className="absolute w-72 top-6 left-6" />
+      <img src={logo} alt="Netflix" className="absolute top-6 left-6 w-32 sm:w-56 md:w-56" />
       <form
         onSubmit={handleSubmit}
         className="bg-black border border-gray-700 p-10 w-[350px]"
